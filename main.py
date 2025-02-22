@@ -1,4 +1,3 @@
-from browser import document
 import random
 from math import sin, cos, pi, log
 from tkinter import *
